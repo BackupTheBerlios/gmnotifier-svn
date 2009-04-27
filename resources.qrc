@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images" >
+        <file alias="broken.png" >resources/broken.png</file>
+        <file alias="new.png" >resources/new.png</file>
+        <file alias="nonew.png" >resources/no-new.png</file>
+    </qresource>
+</RCC>
